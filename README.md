@@ -3,7 +3,7 @@
 ### - 🔭 I’m currently working on AI/ML Projects
 ### - 🌱 I’m currently learning Automation
 ### - 👯 I’m looking to collaborate on Recent Advancements in AI/ML
-### - 🤔 I’m looking for help with implementation of AI/ML with Security
+### - 🤔 I’m looking for help with implementation of AI/ML with Network Security
 ### - 💬 Ask me about Tech
 ### - 📫 How to reach me: official.pulkitt@gmail.com
 
