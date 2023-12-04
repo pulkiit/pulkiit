@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkiit&label=Profile%20views&color=0e75b6&style=flat" alt="pulkiit" /> </p>
 <img align ="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on AI/ML Projects**
+- 🔭 I’m currently working on AI/ML Projects
 
-- 🌱 I’m currently learning Automation**
+- 🌱 I’m currently learning Automation
 
-- 👯 I’m looking to collaborate on Recent Advancements in AI/ML**
+- 👯 I’m looking to collaborate on Recent Advancements in AI/ML
 
-- 🤔 I’m looking for help with implementation of AI/ML with Network Security**
+- 🤔 I’m looking for help with implementation of AI/ML with Network Security
 
-- 💬 Ask me about Tech**
+- 💬 Ask me about Tech
 
-- 📫 How to reach me: official.pulkitt@gmail.com**
+- 📫 How to reach me: official.pulkitt@gmail.com
 
 
 <!--
