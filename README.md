@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , This is Pulkit Singh</h1>
-<h2 align="center">Electronics & Communications Undergraduate from Birla Institute of Technology and Science  🎓 </h2>
+<h2 align="center">ECE Graduate from Birla Institute of Technology and Science 🎓 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkiit&label=Profile%20views&color=0e75b6&style=flat" alt="pulkiit" /> </p>
 <img align ="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
