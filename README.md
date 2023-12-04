@@ -64,3 +64,26 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pulkiit&theme=highcontrast"/>
 </div>
+
+### 💻 GitHub Profile Stats
+<div align="center">
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jkanishkha0305's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jkanishkha0305&show_icons=true&count_private=true&theme=vision-friendly-dark&border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jkanishkha0305's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkanishkha0305&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/></a>
+  <br/>
+</div>
+  
+### 🏆 Trophies 
+<div align="right">
+  <br>
+   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img alt="pulkiit" src="https://github-profile-trophy.vercel.app/?username=pulkiit&theme=monokai&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" /></a>
+  <br/>
+</div>
+
+<!-- ## 🐍 Activty Graph
+
+<p align="center">
+
+![Snake animation](https://github.com/pulkiit/pulkiit/blob/main/assets/pulkiit.svg)
+
+</p> -->
