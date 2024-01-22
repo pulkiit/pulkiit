@@ -6,13 +6,11 @@
 
 - 🔭 Love experimenting & analysing Data
 
-- 🌱 Currently learning Automation
+- 🌱 Currently learning about Data Science.
 
-- 👯 Looking to collaborate on Recent Advancements in AI/ML
+- 👯 Open for similar collaborations.
 
-- 🤔 Highy curious about GPT Technologies
-
-- 💬 Ask me about Tech
+- 💬 Ask me about Tech.
 
 - 📫 How to reach me: official.pulkitt@gmail.com
 
@@ -23,10 +21,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI/ML Projects
-- 🌱 I’m currently learning Automation
-- 👯 I’m looking to collaborate on Recent Advancements in AI/ML
-- 🤔 I’m looking for help with implementation of AI/ML with Security
-- 💬 Ask me about Tech
+- 🌱 Currently learning about Data Science.
+- 👯 Open for similar collaborations.
+- 💬 Ask me about Tech.
 - 📫 How to reach me: official.pulkitt@gmail.com
 --!>
 
