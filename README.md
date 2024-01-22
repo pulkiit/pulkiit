@@ -1,5 +1,5 @@
 <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101441174"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async data-id="101441174" src="//static.getclicky.com/js"></script>
+<!---<script async data-id="101441174" src="//static.getclicky.com/js"></script>--->
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , This is Pulkit Singh</h1>
 <h2 align="center">ECE Graduate from Birla Institute of Technology and Science 🎓 </h2>
 
