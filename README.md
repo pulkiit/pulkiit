@@ -95,4 +95,3 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/pulkiit/pulkiit/blob/main/assets/pulkiit.svg)
 
 </p> -->
-<script async data-id="101441179" src="//static.getclicky.com/js"></script>
