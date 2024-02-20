@@ -95,7 +95,3 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/pulkiit/pulkiit/blob/main/assets/pulkiit.svg)
 
 </p> -->
-
-<--
-  <script src="https://cdn.counter.dev/script.js" data-id="ffa4a0c1-9f19-4c37-9973-61aa87bf5e42" data-utcoffset="4"></script>
--->
